@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutomationWithHelperVS17_28Aug191.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Frontend_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="timeToWaitInMinutes" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="toMails" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;linkdev.automationtest@gmail.com&lt;/string&gt;
+  &lt;string&gt;nataly.wadie@linkdev.com&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Backend_URL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Language" Type="Config.Languages" Scope="User">
+      <Value Profile="(Default)">en</Value>
+    </Setting>
+    <Setting Name="RunHeadless" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FireExceptionOnBrowserConsoleErrors" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SENDGRID_API_KEY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">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</Value>
+    </Setting>
+    <Setting Name="FromMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">linkdev.automationtest@gmail.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
